@@ -1,0 +1,516 @@
+#EXTM3U
+
+#EXTINF:-1,•●★ JORDAN ★●•
+#EXTINF:-1 group-title="Jordan" tvg-logo="https://i.imgur.com/Sa2nBTP.png" tvg-country="JO",Roya HD
+http://stariptv.org:8080/wael2021/123456/111533?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Jordan" tvg-country="JO" tvg-logo="https://i.imgur.com/Sa2nBTP.png",Roya TV (720p)
+https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
+#EXTINF:-1 tvg-id="RoyaTV.jo" tvg-country="JO" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Sa2nBTP.png" group-title="Jordan",Roya TV (720p) [Not 24/7]
+https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
+#EXTINF:-1 group-title="Jordan",Roya HD
+http://red.ipfox.org:8080/1234/12345678/33755
+#EXTINF:-1 group-title="Jordan",Roya HD
+http://stariptv.org:8080/wael2021/123456/111533
+#EXTINF:-1 group-title="Jordan",Roya
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/49629
+
+#EXTINF:-1 group-title="Jordan",A ONE TV
+http://stariptv.org:8080/wael2021/123456/112477
+#EXTINF:-1 group-title="Jordan",JORDAN SAMA
+http://stariptv.org:8080/wael2021/123456/112478
+#EXTINF:-1 group-title="Jordan",ALHAQEQA ALDAWLIAH
+http://stariptv.org:8080/wael2021/123456/112479
+#EXTINF:-1 group-title="Jordan",ALKOFIYA
+http://stariptv.org:8080/wael2021/123456/112480
+#EXTINF:-1 group-title="Jordan",Wattan TV
+http://stariptv.org:8080/wael2021/123456/112481
+#EXTINF:-1 group-title="Jordan",Watar TV
+http://stariptv.org:8080/wael2021/123456/112482
+#EXTINF:-1 group-title="Jordan",Al Taghier TV HD
+http://stariptv.org:8080/wael2021/123456/112484
+#EXTINF:-1 group-title="Jordan",Jordan TV
+http://stariptv.org:8080/wael2021/123456/111526
+
+#EXTINF:-1 group-title="Jordan",Karamesh
+http://stariptv.org:8080/wael2021/123456/111534
+#EXTINF:-1 group-title="Jordan",Amman TV
+http://stariptv.org:8080/wael2021/123456/111539
+#EXTINF:-1 group-title="Jordan",Al Ghad Al Araby HD
+http://stariptv.org:8080/wael2021/123456/111540
+#EXTINF:-1 group-title="Jordan",Darsak 1 Tawjihi
+http://stariptv.org:8080/wael2021/123456/111541
+#EXTINF:-1 group-title="Jordan",Darsak 2
+http://stariptv.org:8080/wael2021/123456/111542
+#EXTINF:-1 group-title="Jordan",Kaifa TV
+http://stariptv.org:8080/wael2021/123456/111546
+
+
+#EXTINF:-1 group-title="Jordan",Aude TV
+http://red.ipfox.org:8080/1234/12345678/33754
+#EXTINF:-1 group-title="Jordan",Amman TV
+http://red.ipfox.org:8080/1234/12345678/33756
+#EXTINF:-1 group-title="Jordan",Jordan TV
+http://red.ipfox.org:8080/1234/12345678/33757
+#EXTINF:-1 group-title="Jordan",Jordan HD
+http://red.ipfox.org:8080/1234/12345678/33758
+#EXTINF:-1 group-title="Jordan",Al Mamlaka TV
+http://red.ipfox.org:8080/1234/12345678/33759
+#EXTINF:-1 group-title="Jordan",Jordan Sport
+http://red.ipfox.org:8080/1234/12345678/33760
+#EXTINF:-1 group-title="Jordan",Jordan Sport HD
+http://red.ipfox.org:8080/1234/12345678/33761
+#EXTINF:-1 group-title="Jordan",Jordan Deretna
+http://red.ipfox.org:8080/1234/12345678/33762
+#EXTINF:-1 group-title="Jordan",JORDAN NOW
+http://red.ipfox.org:8080/1234/12345678/33764
+#EXTINF:-1 group-title="Jordan",AL HAQEQA AL DAWLIAH
+http://red.ipfox.org:8080/1234/12345678/33765
+#EXTINF:-1 group-title="Jordan",Darsak 1
+http://red.ipfox.org:8080/1234/12345678/33766
+#EXTINF:-1 group-title="Jordan",Darsak 2
+http://red.ipfox.org:8080/1234/12345678/33767
+#EXTINF:-1 group-title="Jordan",Darsak Tawjihi
+http://red.ipfox.org:8080/1234/12345678/33768
+#EXTINF:-1 group-title="Jordan",7 stars TV
+http://red.ipfox.org:8080/1234/12345678/33769
+
+
+
+
+
+#EXTINF:-1 group-title="MBC",MBC 1
+http://stariptv.org:8080/wael2021/123456/15143?checkedby:ahlakid.com
+#EXTINF:-1 group-title="MBC",MBC 1 HD
+http://stariptv.org:8080/wael2021/123456/15152?checkedby:ahlakid.com
+#EXTINF:-1 group-title="MBC",MBC 1 4K
+http://stariptv.org:8080/wael2021/123456/45165?checkedby:ahlakid.com
+#EXTINF:-1 group-title="MBC",MBC 1
+http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8
+#EXTINF:-1 group-title="MBC",MBC 1 SD
+http://livecdnh2.tvanywhere.ae/hls/mbc1/04.m3u8
+#EXTINF:-1 group-title="MBC",MBC 1 HD ™
+http://red.ipfox.org:8080/1234/12345678/32831
+#EXTINF:-1 group-title="MBC",MBC 1 +2H
+http://red.ipfox.org:8080/1234/12345678/32832
+#EXTINF:-1 group-title="MBC",MBC 1 +4H
+http://red.ipfox.org:8080/1234/12345678/32833
+#EXTINF:-1 group-title="MBC",MBC 1 HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/4061
+#EXTINF:-1 group-title="MBC",MBC 1 HD backup
+#EXTINF:-1 tvg-id="MBC.ae" tvg-country="ARAB;MAGHREB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="MBC",MBC 1 KSA (1080p) [Geo-blocked]
+https://shls-mbc1ksa-ak.akamaized.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
+#EXTINF:-1 tvg-id="MBC1USA.ae" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="MBC",MBC 1 USA (1080p)
+https://shls-mbc1-usa-prod.shahid.net/out/v1/1b559e832c3f40f996c1984245b3b24b/index.m3u8
+#EXTINF:-1 group-title="MBC",MBC 1
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/313
+
+
+#EXTINF:-1 group-title="MBC",MBC 2
+http://stariptv.org:8080/wael2021/123456/15142?checkedby:ahlakid.com
+#EXTINF:-1 group-title="MBC",MBC 2 HD
+http://stariptv.org:8080/wael2021/123456/15151?checkedby:ahlakid.com
+#EXTINF:-1 group-title="MBC",MBC 3
+http://stariptv.org:8080/wael2021/123456/15141?checkedby:ahlakid.com
+#EXTINF:-1 group-title="MBC",MBC 3 HD
+http://stariptv.org:8080/wael2021/123456/15150?checkedby:ahlakid.com
+#EXTINF:-1 group-title="MBC",MBC 4
+http://stariptv.org:8080/wael2021/123456/15140?checkedby:ahlakid.com
+#EXTINF:-1 group-title="MBC",MBC 4 HD
+http://stariptv.org:8080/wael2021/123456/15149?checkedby:ahlakid.com
+#EXTINF:-1 group-title="MBC",MBC Action
+http://stariptv.org:8080/wael2021/123456/15135?checkedby:ahlakid.com
+#EXTINF:-1 group-title="MBC",MBC Action HD
+http://stariptv.org:8080/wael2021/123456/15154?checkedby:ahlakid.com
+#EXTINF:-1 group-title="MBC",MBC Bollywood
+http://stariptv.org:8080/wael2021/123456/15136?checkedby:ahlakid.com
+#EXTINF:-1 group-title="MBC",MBC Drama
+http://stariptv.org:8080/wael2021/123456/15137?checkedby:ahlakid.com
+#EXTINF:-1 group-title="MBC",MBC Drama HD
+http://stariptv.org:8080/wael2021/123456/15153?checkedby:ahlakid.com
+#EXTINF:-1 group-title="MBC",MBC Drama+ HD
+http://stariptv.org:8080/wael2021/123456/21160?checkedby:ahlakid.com
+#EXTINF:-1 group-title="MBC",MBC IRAQ HD
+http://stariptv.org:8080/wael2021/123456/14732?checkedby:ahlakid.com
+#EXTINF:-1 group-title="MBC",MBC Masr 1
+http://stariptv.org:8080/wael2021/123456/15134?checkedby:ahlakid.com
+#EXTINF:-1 group-title="MBC",MBC Masr 2
+http://stariptv.org:8080/wael2021/123456/15133?checkedby:ahlakid.com
+#EXTINF:-1 group-title="MBC",MBC Max
+http://stariptv.org:8080/wael2021/123456/15138?checkedby:ahlakid.com
+#EXTINF:-1 group-title="MBC",MBC Max HD
+http://stariptv.org:8080/wael2021/123456/15139?checkedby:ahlakid.com
+
+
+#EXTINF:-1 group-title="MBC",MBC  DRAMA 4K
+http://stariptv.org:8080/wael2021/123456/45163?checkedby:ahlakid.com
+
+#EXTINF:-1 group-title="MBC",MBC 2 4K
+http://stariptv.org:8080/wael2021/123456/45168?checkedby:ahlakid.com
+#EXTINF:-1 group-title="MBC",MBC 3 4K
+http://stariptv.org:8080/wael2021/123456/45143?checkedby:ahlakid.com
+#EXTINF:-1 group-title="MBC",MBC 4 4K
+http://stariptv.org:8080/wael2021/123456/45164?checkedby:ahlakid.com
+#EXTINF:-1 group-title="MBC",MBC 5 4K
+http://stariptv.org:8080/wael2021/123456/92759?checkedby:ahlakid.com
+#EXTINF:-1 group-title="MBC",MBC ACTION HD 4K
+http://stariptv.org:8080/wael2021/123456/45166?checkedby:ahlakid.com
+#EXTINF:-1 group-title="MBC",MBC BOLLYWOOD 4K
+http://stariptv.org:8080/wael2021/123456/45162?checkedby:ahlakid.com
+#EXTINF:-1 group-title="MBC",MBC FM 4K
+http://stariptv.org:8080/wael2021/123456/92755?checkedby:ahlakid.com
+#EXTINF:-1 group-title="MBC",MBC IRAQ
+http://stariptv.org:8080/wael2021/123456/92760?checkedby:ahlakid.com
+#EXTINF:-1 group-title="MBC",MBC IRAQ  4K
+http://stariptv.org:8080/wael2021/123456/92752?checkedby:ahlakid.com
+#EXTINF:-1 group-title="MBC",MBC MASR 1 4K
+http://stariptv.org:8080/wael2021/123456/92753?checkedby:ahlakid.com
+#EXTINF:-1 group-title="MBC",MBC MASR 2 4K
+http://stariptv.org:8080/wael2021/123456/92754?checkedby:ahlakid.com
+#EXTINF:-1 group-title="MBC",MBC MAX 4K
+http://stariptv.org:8080/wael2021/123456/45167?checkedby:ahlakid.com
+#EXTINF:-1 group-title="MBC",MBC Panorama FM 4K
+http://stariptv.org:8080/wael2021/123456/148413?checkedby:ahlakid.com
+#EXTINF:-1 group-title="MBC",MBC Persian 4K
+http://stariptv.org:8080/wael2021/123456/148411?checkedby:ahlakid.com
+#EXTINF:-1 group-title="MBC",MBC Wanasah 4K
+http://stariptv.org:8080/wael2021/123456/148412?checkedby:ahlakid.com
+#EXTINF:-1 group-title="MBC",MBC+ Drama 4K
+http://stariptv.org:8080/wael2021/123456/43679?checkedby:ahlakid.com
+#EXTINF:-1 group-title="MBC",MBC 5
+http://stariptv.org:8080/wael2021/123456/58861?checkedby:ahlakid.com
+
+
+#EXTINF:-1 group-title="MBC",MBC 2
+rtmp://live-f01.vustream.net/live/livestream
+#EXTINF:-1 group-title="MBC",MBC 3
+rtmpt://162.212.176.107:1935/mbc_3?v=a2V5bGl2ZTgzLTQ1LTEwMC00MjIwMTQtMTItMDMtMTYtMzUtMzM=//globaltv-mbc_3.stream
+#EXTINF:-1 group-title="MBC",MBC 4
+rtmp://162.212.176.107/mbc_4/globaltv-mbc_4.stream
+#EXTINF:-1 group-title="MBC",MBC_BOLLYWOOD
+rtmp://63.237.48.3:1935/live/MBC_BOLLYWOOD
+#EXTINF:-1 group-title="MBC",mbc_max
+rtmp://162.212.176.107:1935/mbc_max/globaltv-mbc_max.stream
+#EXTINF:-1 group-title="MBC",MBC_ACTION
+rtmp://63.237.48.3:1935/live/MBC_ACTION
+#EXTINF:-1 group-title="MBC",MBC Masr 1
+http://mbc-live.hds.adaptive.level3.net/hls-live/mbc-channel01/_definst_/live/stream1.m3u8
+#EXTINF:-1 group-title="MBC",MBC Masr 2
+http://mbc-live.hds.adaptive.level3.net/hls-live/mbc-channel02/_definst_/live/stream1.m3u8
+#EXTINF:-1 group-title="MBC",MBC Sports Pro 1
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_definst_/live.m3u8
+#EXTINF:-1 group-title="MBC",MBC Sports Pro 2
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports02/_definst_/live.m3u8
+#EXTINF:-1 group-title="MBC",MBC Sports Pro 3
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports03/_definst_/live.m3u8
+#EXTINF:-1 group-title="MBC", MBC SPORTS PRO 4
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_definst_/live/stream1.m3u8
+
+#EXTINF:-1 group-title="MBC",http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8
+#EXTINF:-1 group-title="MBC",MBC IRAQ
+http://95.170.215.109/hls/m3u8/MBC-IRAQ-Backup.m3u8
+
+
+#EXTINF:-1 group-title="MBC",MBC 2
+http://livecdnh3.tvanywhere.ae/hls/mbc2/04.m3u8
+#EXTINF:-1 group-title="MBC",MBC 2 SD
+http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
+#EXTINF:-1 group-title="MBC",MBC 3 
+http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8
+#EXTINF:-1 group-title="MBC",MBC 3 SD
+http://livecdnh2.tvanywhere.ae/hls/mbc3/04.m3u8
+#EXTINF:-1 group-title="MBC",MBC 4
+http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8
+#EXTINF:-1 group-title="MBC",MBC 4 SD
+http://livecdnh3.tvanywhere.ae/hls/mbc4/04.m3u8
+http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8
+#EXTINF:-1 group-title="MBC",MBC 5
+http://45.153.186.35:3000/Sooftv/Julgodiskdldn567262672/5288
+#EXTINF:-1 group-title="MBC",MBC IRAQ
+http://95.170.215.109/hls/m3u8/MBC-IRAQ-Backup.m3u8
+#EXTINF:-1 group-title="MBC",MBC MAX 
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
+#EXTINF:-1 group-title="MBC",MBC DRAMA 
+http://livecdnh2.tvanywhere.ae/hls/mbc_drama/05.m3u8
+#EXTINF:-1 group-title="MBC",MBC ACTION 
+http://95.170.215.118/hls/m3u8/MBC-ACTION-YY-TT.m3u8
+#EXTINF:-1 group-title="MBC",MBC VARIETY 
+http://95.170.215.118/hls/MBC-P-VARity-FF.m3u8
+#EXTINF:-1 group-title="MBC",MBC DRAMA PLUS 
+http://95.170.215.118/hls/m3u8/MBC-DRAMA-SS.m3u8
+#EXTINF:-1 group-title="MBC",MBC BOLLYWOOD 
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
+#EXTINF:-1 group-title="MBC",MBC Masr
+http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
+#EXTINF:-1 group-title="MBC",MBC Masr2
+http://95.170.215.107/hls/MBC-Masr-2-Backu-M.m3u8
+
+http://red.ipfox.org:8080/1234/12345678/32830
+
+
+#EXTINF:-1 group-title="MBC",MBC 2 HD  ™
+http://red.ipfox.org:8080/1234/12345678/32834
+#EXTINF:-1 group-title="MBC",MBC 2 +2H
+http://red.ipfox.org:8080/1234/12345678/32835
+#EXTINF:-1 group-title="MBC",MBC 2 +4H
+http://red.ipfox.org:8080/1234/12345678/32836
+#EXTINF:-1 group-title="MBC",MBC 3 HD  ™
+http://red.ipfox.org:8080/1234/12345678/32837
+#EXTINF:-1 group-title="MBC",MBC 3 +2H
+http://red.ipfox.org:8080/1234/12345678/32838
+#EXTINF:-1 group-title="MBC",MBC 3 +4H
+http://red.ipfox.org:8080/1234/12345678/32839
+#EXTINF:-1 group-title="MBC",MBC 4 HD  ™
+http://red.ipfox.org:8080/1234/12345678/32841
+#EXTINF:-1 group-title="MBC",MBC 4 +2H
+http://red.ipfox.org:8080/1234/12345678/32842
+#EXTINF:-1 group-title="MBC",MBC 4 +4H
+http://red.ipfox.org:8080/1234/12345678/32843
+#EXTINF:-1 group-title="MBC",MBC 5  ™
+http://red.ipfox.org:8080/1234/12345678/32844
+#EXTINF:-1 group-title="MBC",MBC 5 +2H
+http://red.ipfox.org:8080/1234/12345678/32845
+#EXTINF:-1 group-title="MBC",MBC 5 +4H
+http://red.ipfox.org:8080/1234/12345678/32846
+#EXTINF:-1 group-title="MBC",MBC IRAQ HD  ™
+http://red.ipfox.org:8080/1234/12345678/32847
+#EXTINF:-1 group-title="MBC",MBC Iraq HD +2H
+http://red.ipfox.org:8080/1234/12345678/32848
+#EXTINF:-1 group-title="MBC",MBC ACTION HD  ™
+http://red.ipfox.org:8080/1234/12345678/32849
+#EXTINF:-1 group-title="MBC",MBC Action +2H
+http://red.ipfox.org:8080/1234/12345678/32850
+#EXTINF:-1 group-title="MBC",MBC Action +4H
+http://red.ipfox.org:8080/1234/12345678/32851
+#EXTINF:-1 group-title="MBC",MBC BOLLYWOOD HD  ™
+http://red.ipfox.org:8080/1234/12345678/32852
+#EXTINF:-1 group-title="MBC",MBC BOLLYWOOD +2H
+http://red.ipfox.org:8080/1234/12345678/32853
+#EXTINF:-1 group-title="MBC",MBC BOLLYWOOD +4H
+http://red.ipfox.org:8080/1234/12345678/32854
+#EXTINF:-1 group-title="MBC",MBC Drama HD  ™
+http://red.ipfox.org:8080/1234/12345678/32855
+#EXTINF:-1 group-title="MBC",MBC DRAMA +2H
+http://red.ipfox.org:8080/1234/12345678/32856
+#EXTINF:-1 group-title="MBC",MBC DRAMA +4H
+http://red.ipfox.org:8080/1234/12345678/32857
+#EXTINF:-1 group-title="MBC",MBC MAX HD  ™
+http://red.ipfox.org:8080/1234/12345678/32858
+#EXTINF:-1 group-title="MBC",MBC MAX +2H
+http://red.ipfox.org:8080/1234/12345678/32859
+#EXTINF:-1 group-title="MBC",MBC MAX +4H
+http://red.ipfox.org:8080/1234/12345678/32860
+#EXTINF:-1 group-title="MBC",MBC+ DRAMA HD
+http://red.ipfox.org:8080/1234/12345678/32861
+#EXTINF:-1 group-title="MBC",MBC+ Drama HD +2H
+http://red.ipfox.org:8080/1234/12345678/32862
+#EXTINF:-1 group-title="MBC",MBC+ Drama HD +4H
+http://red.ipfox.org:8080/1234/12345678/32863
+#EXTINF:-1 group-title="MBC",MBC+ VARIETY FHD
+http://red.ipfox.org:8080/1234/12345678/32864
+#EXTINF:-1 group-title="MBC",MBC MASR  ™
+http://red.ipfox.org:8080/1234/12345678/32865
+#EXTINF:-1 group-title="MBC",MBC MASR +2H
+http://red.ipfox.org:8080/1234/12345678/32866
+#EXTINF:-1 group-title="MBC",MBC MASR +4H
+http://red.ipfox.org:8080/1234/12345678/32867
+#EXTINF:-1 group-title="MBC",MBC MASR 2  ™
+http://red.ipfox.org:8080/1234/12345678/32868
+#EXTINF:-1 group-title="MBC",MBC MASR 2 +2H
+http://red.ipfox.org:8080/1234/12345678/32869
+#EXTINF:-1 group-title="MBC",MBC MASR 2 +4H
+http://red.ipfox.org:8080/1234/12345678/32870
+
+
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/8673
+#EXTINF:-1 group-title="MBC",MBC 2
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/2500
+#EXTINF:-1 group-title="MBC",MBC 2 HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/4060
+#EXTINF:-1 group-title="MBC",MBC 3 HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/4059
+#EXTINF:-1 group-title="MBC",MBC 4
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/2502
+#EXTINF:-1 group-title="MBC",MBC 4 HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/1042
+#EXTINF:-1 group-title="MBC",MBC 4 HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/4058
+#EXTINF:-1 group-title="MBC",MBC ACTION
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/540
+#EXTINF:-1 group-title="MBC",MBC ACTION
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/2499
+#EXTINF:-1 group-title="MBC",MBC Action HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/4057
+#EXTINF:-1 group-title="MBC",MBC BOLLYWOOD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/6793
+#EXTINF:-1 group-title="MBC",MBC DRAMA
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/538
+#EXTINF:-1 group-title="MBC",MBC Drama HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/4056
+#EXTINF:-1 group-title="MBC",MBC Dramar +
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/5817
+#EXTINF:-1 group-title="MBC",MBC MASR
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/1044
+#EXTINF:-1 group-title="MBC",MBC MASR
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/539
+#EXTINF:-1 group-title="MBC",MBC MAX
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/2501
+#EXTINF:-1 group-title="MBC",MBC Max HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/4055
+#EXTINF:-1 group-title="MBC",MBC Plus Drama HD(backup1)
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/8036
+#EXTINF:-1 group-title="MBC",MBC Variety HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/4054
+#EXTINF:-1 group-title="MBC",MBC1
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/536
+#EXTINF:-1 group-title="MBC",MBC2
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/537
+
+
+#EXTINF:-1 tvg-id="MBC2.ae" tvg-country="ARAB;MAGHREB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/GLltP2T.png" group-title="MBC",MBC 2 (720p)
+https://blogs.livehdchanel.live/mbc-222/index.m3u8
+#EXTINF:-1 tvg-id="MBC3.ae" tvg-country="ARAB;MAGHREB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="MBC",MBC 3 (1080p)
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:-1 tvg-id="MBC3EUR.ae" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="MBC",MBC 3 EUR (1080p)
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
+#EXTINF:-1 tvg-id="MBC3USA.ae" tvg-country="ARAB;MAGHREB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="MBC",MBC 3 USA (1080p)
+https://shls-mbc3-usa-prod.shahid.net/out/v1/f7584f50d13c4c01b0fac2be04c61c7e/index.m3u8
+#EXTINF:-1 tvg-id="MBC4.ae" tvg-country="ARAB;MAGHREB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/pfF61uH.png" group-title="MBC",MBC 4 (1080p) [Geo-blocked]
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1 tvg-id="MBC5.ae" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="MBC",MBC 5 (1080p)
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1 tvg-id="MBCAction.ae" tvg-country="ARAB;MAGHREB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="MBC",MBC Action (1080p) [Geo-blocked]
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
+#EXTINF:-1 tvg-id="MBCBollywood.ae" tvg-country="ARAB;MAGHREB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/fMjhK06.png" group-title="MBC",MBC Bollywood (1080p) [Geo-blocked]
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-country="ARAB;MAGHREB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="MBC",MBC Drama KSA (1080p)
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
+#EXTINF:-1 tvg-id="MBCFM.ae" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/radio/mm/mbc_ae_fm.png" group-title="MBC",MBC FM (1080p)
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
+#EXTINF:-1 tvg-id="MBCIraq.ae" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-iraq-ae-iq.png" group-title="MBC",MBC Iraq (1080p)
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+#EXTINF:-1 tvg-id="MBCEgypt.ae" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_masr.png" group-title="MBC",MBC Masr 1 (1080p) [Geo-blocked]
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
+#EXTINF:-1 tvg-id="MBCMasr1USA.ae" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_masr.png" group-title="MBC",MBC Masr 1 USA (1080p)
+https://shls-mbc-masr-usa-prod.shahid.net/out/v1/d4fded7d5df04b88b9ea1db61d00f095/index.m3u8
+#EXTINF:-1 tvg-id="MBCMasr2.ae" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_masr_2.png" group-title="MBC",MBC Masr 2 (1080p) [Geo-blocked]
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:-1 tvg-id="MBCMax.ae" tvg-country="ARAB;MAGHREB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="MBC",MBC Max (576p)
+https://blogs.livehdchanel.live/max/index.m3u8
+#EXTINF:-1 tvg-id="MBCDramaPlus.ae" tvg-country="ARAB;MAGHREB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="MBC",MBC Plus Drama (1080p)
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+
+#EXTINF:-1 group-title="MBC",MBC Action
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/2168
+#EXTINF:-1 group-title="MBC",MBC Drama
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/319
+#EXTINF:-1 group-title="MBC",MBC+ DRAMA
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/50149
+
+#EXTINF:-1 group-title="MBC",MBC 2
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/315
+#EXTINF:-1 group-title="MBC",MBC 3
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/317
+#EXTINF:-1 group-title="MBC",MBC 4
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/318
+#EXTINF:-1 group-title="MBC",MBC 5
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/52201
+#EXTINF:-1 group-title="MBC",MBC MSR
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/324
+#EXTINF:-1 group-title="MBC",MBC MSR 2
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/325
+#EXTINF:-1 group-title="MBC",MBC BOLLYWOOD
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/322
+#EXTINF:-1 group-title="MBC",MBC Max
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/46371
+#EXTINF:-1 group-title="MBC",MBC IRAQ
+
+
+
+#EXTINF:-1,♣♦♣ Sunnah and Quran Group ♣♦♣
+#EXTINF:-1 group-title="Quran And Sunnah",Saudi Quran
+http://red.ipfox.org:8080/1234/12345678/33206
+#EXTINF:-1 group-title="Quran And Sunnah",Saudi Sunnah
+http://red.ipfox.org:8080/1234/12345678/33207
+#EXTINF:-1 group-title="Quran And Sunnah",SUNNAH HD
+http://stariptv.org:8080/wael2021/123456/21190?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",QURAN HD
+http://stariptv.org:8080/wael2021/123456/21187?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Quran And Sunnah" tvg-logo="https://i.imgur.com/84nqj99.png",Al Sunnah Al Nabawiyah TV (Medina) (720p)
+http://5b18be6964c2f.streamlock.net:1935/live/_definst_/sunnah/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Quran And Sunnah" tvg-logo="https://i.imgur.com/0aMNwQa.png",Al Quran Al Kareem TV (Mecca) (720p)
+http://5b18be6964c2f.streamlock.net:1935/live/_definst_/quran/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Quran And Sunnah",Saudia Quran HD
+http://stariptv.org:8080/wael2021/123456/97883
+
+#EXTINF:-1 group-title="Quran And Sunnah",Sunnatv
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3043
+#EXTINF:-1 group-title="Quran And Sunnah",qurantv
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3042
+
+#EXTINF:-1 group-title="Quran And Sunnah",Saudi Quran HD
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/52019
+#EXTINF:-1 group-title="Quran And Sunnah",Saudi Sunnah
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/4690
+
+
+
+
+
+#EXTINF:-1 group-title="ALJazeera",ALJazeera http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/doc/appleman1434.m3u8
+#EXTINF:-1 group-title="ALJazeera",http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147.m3u8
+#EXTINF:-1 group-title="ALJazeera",AR:AL Jazeera Mubasher
+https://edge-1192-ch-gv.filmon.com/live/3032.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="ALJazeera",ALJAZEERA
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_ara_high
+#EXTINF:-1 group-title="ALJazeera",aljazeera_mubasher
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_mubasher2_high
+#EXTINF:-1 group-title="ALJazeera",AL JAZEERA
+http://stariptv.org:8080/wael2021/123456/14995?checkedby:ahlakid.com
+#EXTINF:-1 group-title="ALJazeera",AL JAZEERA DOCUMENTARY
+http://stariptv.org:8080/wael2021/123456/14994?checkedby:ahlakid.com
+#EXTINF:-1 group-title="ALJazeera",AL JAZEERA ENGLISH
+http://stariptv.org:8080/wael2021/123456/21244?checkedby:ahlakid.com
+#EXTINF:-1 group-title="ALJazeera",AL JAZEERA MUBASHER
+http://stariptv.org:8080/wael2021/123456/14993?checkedby:ahlakid.com
+
+#EXTINF:-1 group-title="ALJazeera",ALJAZEERA HD
+http://red.ipfox.org:8080/1234/12345678/35069
+#EXTINF:-1 group-title="ALJazeera",ALJAZEERA Mubasher HD
+http://red.ipfox.org:8080/1234/12345678/35070
+#EXTINF:-1 group-title="ALJazeera",ALJAZEERA Documentary HD
+http://red.ipfox.org:8080/1234/12345678/35071
+#EXTINF:-1 group-title="ALJazeera",ALJAZEERA English HD
+http://red.ipfox.org:8080/1234/12345678/35072
+
+#EXTINF:-1 group-title="ALJazeera",AL JAZEERA
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/28974
+#EXTINF:-1 group-title="ALJazeera",Al Jazeera Documentary
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/1001
+#EXTINF:-1 group-title="ALJazeera",Al Jazeera English
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/1000
+#EXTINF:-1 group-title="ALJazeera",Al Jazeera Mubasher
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/999
+
+
+#EXTINF:-1 tvg-id="AlJazeeraBalkans.qa" tvg-country="QA" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Al_Jazeera_Balkans.png" group-title="ALJazeera",Al Jazeera Balkans (1080p)
+https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-country="QA" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png" group-title="ALJazeera",Al Jazeera Documentary (270p) [Geo-blocked]
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" tvg-country="QA" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png" group-title="ALJazeera",Al Jazeera Mubasher (1080p)
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+
+
+#EXTINF:-1 group-title="ALJazeera",Al Jazeera Mobasher
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/699
+#EXTINF:-1 group-title="ALJazeera",Al Jazeera HD
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/46336
+#EXTINF:-1 group-title="ALJazeera",Al Jazeera Documentary
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/48868
+#EXTINF:-1 group-title="ALJazeera",Al Jazeera Documentary HEVC
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/52117
+#EXTINF:-1 group-title="ALJazeera",Al Jazeera English FHD
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/52118
+#EXTINF:-1 group-title="ALJazeera",Al Jazeera HEVC
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/52116
+#EXTINF:-1 group-title="ALJazeera",Al Jazeera Mubasher HEVC
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/52119
